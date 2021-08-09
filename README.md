@@ -1,4 +1,4 @@
 # hello-world
 test
 
-nem to github and trying it out
+new to github and trying it out
